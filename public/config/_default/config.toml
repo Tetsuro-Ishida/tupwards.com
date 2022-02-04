@@ -1,8 +1,7 @@
-baseURL = "https://tetsuro-ishida.github.io/tupwards.com"
+baseURL = "https://tupwards.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Diary"
-canonifyurls = true
 
 # theme as hugo module
 theme = "github.com/lxndrblz/anatole"
